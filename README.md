@@ -63,7 +63,7 @@ The interactive dashboard enables users to explore bike purchase behavior across
 
 ## 🖼 Dashboard Preview
 
-dashboard_preview.png 
+![Dashboard Preview](dashboard_preview.png) 
 
 ▶️ How to Use
 
