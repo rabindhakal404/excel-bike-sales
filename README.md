@@ -4,6 +4,10 @@
 
 This project analyzes customer demographic and behavioral data to identify key drivers behind bike purchases. The analysis is designed to support business decisions related to targeted marketing, customer segmentation, and sales optimization.
 
+🖼 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png) 
+
 🎯 Business Problem
 
 A retail company wants to understand:
@@ -60,10 +64,6 @@ The interactive dashboard enables users to explore bike purchase behavior across
 * Focus advertising on middle-aged demographics for higher conversion rates
 * Promote bikes as a commuting solution in regions with shorter travel distances
 * Allocate marketing budget based on region-specific performance
-
-## 🖼 Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png) 
 
 ▶️ How to Use
 
